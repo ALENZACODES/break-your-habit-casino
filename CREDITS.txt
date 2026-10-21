@@ -1,0 +1,31 @@
+Break Your Habit Casino
+Created, produced and published by John Khan · © 2026
+
+Artwork
+  Original artwork by John Khan, created with the help of AI image tools.
+
+Code
+  Game design by John Khan; coded with the help of AI tools.
+
+Music and sound effects
+  All music composed and produced by John Khan: casino score, lounge swing, Chinese hall themes,
+  wins, bells, lever and stings.
+  Performed with real orchestral recordings from VSCO 2 Community Edition by Versilian Studios
+  (Creative Commons CC0, public domain), plus FluidR3 GM soundfont samples (MIT licence) for choir and taiko.
+
+Card, chip and dice sounds (sounds/card-*, chip*, dice-*, die-*)
+  "Casino Audio" by Kenney (www.kenney.nl), Creative Commons CC0 (public domain).
+
+Animal sounds (sounds/animal-*)
+  U.S. National Park Service, Natural Sounds Sound Gallery (www.nps.gov/subjects/sound/gallery.htm).
+  Works of the U.S. federal government, public domain.
+  eagle: Bald eagle, Yellowstone NP     wolf: Wolf, Denali NP          bison: Bison, Yellowstone NP
+  elk: Elk bugling, Great Sand Dunes NP bear: Bear with cubs, Denali NP frog: Green tree frog, Everglades NP
+  owl: Spotted owl, Yosemite NP         whale: Humpback, Glacier Bay   orca: Killer whale, Glacier Bay
+  thunder: Thunder                      ocean: Ocean, Olympic NP        otter: River otter
+  howl: Coyotes, Mojave
+
+Dealer and host voices
+  Lines written by John Khan, voiced with text-to-speech.
+
+Every image and audio file has had all hidden metadata removed.
