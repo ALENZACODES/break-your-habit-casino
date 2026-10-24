@@ -1,3 +1,5 @@
+![Break Your Habit Casino: a play-money casino simulator with real odds](assets/banner.png)
+
 # Break Your Habit Casino
 
 **Free play-money casino simulator with real casino odds, built to show how gambling really works. Play it in your browser.**
@@ -17,6 +19,8 @@ Created by John Khan. See `CREDITS.txt` for music and sound credits.
 Gambling worries? Ontario: ConnexOntario 1-866-531-2600. USA: 1-800-MY-RESET.
 
 © 2026 John Khan. All rights reserved. This is the published game only; see `LICENSE`.
+
+![Break Your Habit Casino welcome screen with the $500 play-money bankroll](assets/screenshot-desktop.png)
 
 ---
 
